@@ -26,8 +26,26 @@ class Main{
         ", Reverse: " + inputReverse;
     }
     public static void main(String[] args) {
-        // Scanner scan = new Scanner(System.in);
-        StringBuilder sb = new StringBuilder("testing lang");
-        System.out.println(useString(sb));
+        System.out.println("Enter a string with at least 10 characters:");
+        Scanner scan = new Scanner(System.in);
+
+
+        while (true) {
+            StringBuilder input = new StringBuilder(scan.nextLine());
+
+            if (input.length() < 10) {
+                System.out.println("Please enter a string with at least 10 characters:");
+                continue;
+            }
+            if (input.toString().equalsIgnoreCase("exit")) {
+                System.out.println("Program terminated.");
+                break;
+            }
+
+            System.out.println(useString(input));
+            System.out.println("Enter another string (or type 'exit' to quit):");
+        }
+        scan.close();
+
     }
 }
