@@ -1,4 +1,4 @@
-package src.tasksheet_1_1_1;
+package src.tasksheet-1-1-1;
 
 public class HelloWorldApp {
 
