@@ -1,4 +1,4 @@
-package src.Task8;
+package Task8;
 
 public class Index {
 

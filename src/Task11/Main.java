@@ -1,4 +1,4 @@
-package src.Task11;
+package Task11;
 
 class Book {
     String title;

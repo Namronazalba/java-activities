@@ -1,4 +1,4 @@
-package src.MultiplicationTable;
+package MultiplicationTable;
 
 class Main{
     public static void main(String[] args) {

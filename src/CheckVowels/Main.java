@@ -1,4 +1,4 @@
-package src.CheckVowels;
+package CheckVowels;
 
 import java.util.Scanner;
 

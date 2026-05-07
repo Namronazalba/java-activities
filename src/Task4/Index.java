@@ -1,4 +1,4 @@
-package src.Task4;
+package Task4;
 import java.util.Scanner;
 public class Index {
 

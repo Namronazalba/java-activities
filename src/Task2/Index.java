@@ -1,4 +1,4 @@
-package src.Task2;
+package Task2;
 
 public class Index {
     static String printString(){

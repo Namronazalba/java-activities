@@ -1,4 +1,4 @@
-package src.Task16;
+package Task16;
 
 interface Animal {
     boolean feed(boolean timeToEat);

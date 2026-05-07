@@ -1,4 +1,4 @@
-package src.StringBuilder;
+package StringBuilder;
 import java.util.Scanner;
 
 class Main{

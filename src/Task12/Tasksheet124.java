@@ -1,4 +1,4 @@
-package src.Task12;
+package Task12;
 
 class Point {
     private double x;

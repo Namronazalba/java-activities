@@ -1,4 +1,4 @@
-package src.Task9;
+package Task9;
 import static java.lang.Math.*;
 
 public class Task9 {

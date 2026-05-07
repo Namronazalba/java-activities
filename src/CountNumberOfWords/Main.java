@@ -1,4 +1,4 @@
-package src.CountNumberOfWords;
+package CountNumberOfWords;
 
 import java.util.Scanner;
 

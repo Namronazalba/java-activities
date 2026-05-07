@@ -1,4 +1,4 @@
-package src.Task3;
+package Task3;
 
 public class Index {
 

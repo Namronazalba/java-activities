@@ -1,4 +1,4 @@
-package src.Task15;
+package Task15;
 
 interface Shape {
     double calculateArea();

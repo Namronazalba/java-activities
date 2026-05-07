@@ -1,4 +1,4 @@
-package src.Task13;
+package Task13;
 
 class Vehicle {
     String make;
